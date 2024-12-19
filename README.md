@@ -84,12 +84,12 @@ Student Class: Allows students to interact with the system by borrowing, returni
 
 SQLite Database: All data is stored in an SQLite database (library.db). The database includes two tables: books and track.
 
-####### To Do / Future Enhancements
+ To Do / Future Enhancements
 * Implement a login system for students (authentication and user management).
 * Add a due date feature for borrowed books and fine management.
 * Add a feature to search for books by name, genre, or author.
 * Improve the UI with a graphical interface (Tkinter or similar library).
 
-######## License
+ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
