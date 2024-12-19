@@ -91,5 +91,6 @@ SQLite Database: All data is stored in an SQLite database (library.db). The data
 * Improve the UI with a graphical interface (Tkinter or similar library).
 
  License
+ 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
